@@ -5,7 +5,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/JairNeto1/netflix-clone)
 
 
-
+## Stripe Paymente Integration
 ### Eventual Requirements
 
 - you will need to sign up for a Stripe account if you haven't already: [stripe.com/register](https://stripe.com/register)
